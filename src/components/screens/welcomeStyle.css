@@ -449,10 +449,10 @@
     display: inline-flex;
     gap: 27px;
     justify-content: center;
-    left: 606px;
+    /* left: 606px; */
     padding: 18px 70px;
-    position: absolute;
-    top: 1168px;
+    /* position: absolute; */
+    /* top: 1168px; */
     border-radius: 20px;
   }
   
