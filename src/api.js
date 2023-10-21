@@ -8,4 +8,4 @@ export const geoApiOptions = {
 	}
 };
 
-console.log("HI");
+console.log("test");
