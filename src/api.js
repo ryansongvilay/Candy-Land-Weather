@@ -7,3 +7,5 @@ export const geoApiOptions = {
 		'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com'
 	}
 };
+
+console.log("HI");
